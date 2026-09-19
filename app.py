@@ -308,7 +308,7 @@ elif page == "Environmental Report":
     st.caption("Once a warning sign is detected on-camera in a zone, that specific hazard stops being re-flagged there — closing the loop between recommendation and corrective action.")
 
 # ---------------------------------------------------------------------------
-# PAGE 4 — REPORTS & ANALYTICS  (summary cards, trend charts, exportable reports)
+# PAGE 4 — REPORTS & ANALYTICS  (summary cards, trend charts, exportable reports)!
 # ---------------------------------------------------------------------------
 elif page == "Reports & Analytics":
     st.title("Reports & Analytics")
